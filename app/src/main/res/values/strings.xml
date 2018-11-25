@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="maps_api_Key">AIzaSyC6A0Mlstt_uBX9kv2g2QtHCeK9GaHydaI</string>
+    <string name="title_activity_map">MapActivity</string>
+
+
+</resources>
